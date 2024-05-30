@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 [![Xijie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeixHuang&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/JeixHuang/github-readme-activity-graph)
 
 Collaborating on [O2M_attack](https://github.com/dirtycomputer/O2M_attack)
+## My Collaborations
+
+- [O2M_attack](https://github.com/dirtycomputer/O2M_attack) ![Stars](https://img.shields.io/github/stars/dirtycomputer/O2M_attack?style=social) ![Forks](https://img.shields.io/github/forks/dirtycomputer/O2M_attack?style=social)

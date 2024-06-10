@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![Xijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeixHuang)](https://github.com/JeixHuang/github-readme-stats)
 
-[![Xijie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeixHuang&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/JeixHuang/github-readme-activity-graph)
+[![Xijie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeixHuang&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/JeixHuang/github-readme-activity-graph)
+
 
 ## My Collaborations
 

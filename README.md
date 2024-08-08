@@ -14,8 +14,8 @@ Please feel free to contact me via:
 - Email: `jeix782@gmail.com`
 - Twitter (X): `Xijie358`
 
+[![Xijie's github stats](https://github-readme-stats.vercel.app/api?username=JeixHuang&rank_icon=github "JeixHuang's github stats")](https://github.com/JeixHuang/github-readme-stats)
 
-[![Xijie's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeixHuang)](https://github.com/JeixHuang/github-readme-stats)
 
 [![Xijie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeixHuang&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/JeixHuang/github-readme-activity-graph)
 

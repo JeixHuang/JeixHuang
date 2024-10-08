@@ -1,6 +1,6 @@
 ### Hi 🤗, I'm JeixHuang 🔥
 
-My name is Xijie Huang (Chinese: 黄希杰; French: Victor Jeix Huang).
+My name is Shea-Jay Huang (Chinese: 黄希杰; French: Victor Ché-Jay Huang).
 
 🔥 I am actively seeking 26Fall Master or PhD Position. I am also looking for research collaborators!
 

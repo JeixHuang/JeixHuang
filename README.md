@@ -20,6 +20,3 @@ Please feel free to contact me via:
 [![Xijie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeixHuang&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/JeixHuang/github-readme-activity-graph)
 
 
-## My Collaborations
-
-- [O2M_attack](https://github.com/dirtycomputer/O2M_attack) ![Stars](https://img.shields.io/github/stars/dirtycomputer/O2M_attack?style=social) ![Forks](https://img.shields.io/github/forks/dirtycomputer/O2M_attack?style=social)

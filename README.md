@@ -2,17 +2,11 @@
 
 My name is Shea-Jay Huang.
 
-🔥 I am actively seeking 26Fall Master or PhD Position. I am also looking for research collaborators!
 
 You can learn more about me via:
 - Homepage: https://jeixhuang.github.io/
 - Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=pL5W9z4AAAAJ
-- Twitter (X): https://x.com/Xijie358
 
-Please feel free to contact me via: 
-- Wechat: `jeix782`
-- Email: `jeix782@gmail.com`
-- Twitter (X): `Xijie358`
 
 [![Xijie's github stats](https://github-readme-stats.vercel.app/api?username=JeixHuang&rank_icon=github "JeixHuang's github stats")](https://github.com/JeixHuang/github-readme-stats)
 
